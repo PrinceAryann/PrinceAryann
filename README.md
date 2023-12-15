@@ -4,8 +4,6 @@
 <br>
 <br>
 
-<img align="center" alt="motto of life" width="300" height="300" src="https://github.com/PrinceAryann/PrinceAryann/assets/153927877/74b0b83c-ccf3-42ea-80dd-971f438a8214">
-
 <br>
 <br>
 
