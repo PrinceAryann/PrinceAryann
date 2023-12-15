@@ -4,10 +4,10 @@
 <h1 align="center"><b>Hello there👋. I'm Prince Aryan.</b></h1>
 <h3 align="center">A passionate CS Student.<br>I’m currently studying Computer Science 💻.<br>I’m looking for help with Machine Learning.<br>I’m currently learning Java, Javascript, C and C++ programming ✌️.</h3>
 <br>
-<br>
-
-<br>
-<br>
+<img align="right" alt="Passion" width="400" src="https://private-user-images.githubusercontent.com/153927877/290896153-e35c6af2-e6eb-4740-a2bd-6c7f2b838938.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2NjIxMDUsIm5iZiI6MTcwMjY2MTgwNSwicGF0aCI6Ii8xNTM5Mjc4NzcvMjkwODk2MTUzLWUzNWM2YWYyLWU2ZWItNDc0MC1hMmJkLTZjN2YyYjgzODkzOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNVQxNzM2NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDIwZmVkYjA5NTZmMWRlNDgyYjlkYWU2MmUyNDNjMTQ1OGQ2NjQ5ZmY1YjEwYzlkNmVjYTdiNDg5OGZkNjgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6B97f2gEvEjrtlmroiVmwag4OCbv-R9bEAZ1q6fmGJY">
+<pre>
+  
+</pre>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100091302224919) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_prince_aryannn_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-kuswaha-a85114288/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mr_shadow____) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Prince_aryannn) 
