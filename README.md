@@ -1,3 +1,5 @@
+![GitHub Banner](https://github.com/PrinceAryann/PrinceAryann/blob/main/w8ZJLtJbmuph.gif)
+<br>
 # 💫 About Me:
 <h1 align="center"><b>Hello therec👋. I'm Prince Aryan.</b></h1>
 <h3 align="center">A passionate CS Student.<br>I’m currently studying Computer Science 💻.<br>I’m looking for help with Machine Learning.<br>I’m currently learning Java, Javascript, C and C++ programming ✌️.</h3>
@@ -25,5 +27,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrinceAryann&icon=0&color=0)](https://visitcount.itsvg.in)
-<br>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
