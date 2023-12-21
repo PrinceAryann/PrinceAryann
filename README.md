@@ -2,7 +2,7 @@
 <br>
 # 💫 About Me:
 <h1 align="center"><b>Hello there👋. I'm Prince Aryan.</b></h1>
-<h3 align="center">A passionate CS Student.<br>I’m currently studying Computer Science 💻.<br>I’m looking for help with Machine Learning.<br>I’m currently learning Java, Javascript, C and C++ programming ✌️.</h3>
+<h3 align="center">A passionate CS Student.<br>I’m currently studying Computer Science 💻.<br>I’m looking for help with Machine Learning.<br>I’m currently learning Python, Java, Javascript, C and C++ programming ✌️.</h3>
 <br>
 <img align="right" alt="Passion" width="400" src="https://private-user-images.githubusercontent.com/153927877/290896153-e35c6af2-e6eb-4740-a2bd-6c7f2b838938.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2NjIxMDUsIm5iZiI6MTcwMjY2MTgwNSwicGF0aCI6Ii8xNTM5Mjc4NzcvMjkwODk2MTUzLWUzNWM2YWYyLWU2ZWItNDc0MC1hMmJkLTZjN2YyYjgzODkzOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNVQxNzM2NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDIwZmVkYjA5NTZmMWRlNDgyYjlkYWU2MmUyNDNjMTQ1OGQ2NjQ5ZmY1YjEwYzlkNmVjYTdiNDg5OGZkNjgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6B97f2gEvEjrtlmroiVmwag4OCbv-R9bEAZ1q6fmGJY">
 <pre>
