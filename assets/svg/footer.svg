@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="100%" stop-color="#0c0c10"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#34D399" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="textFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FAFAFA"/>
+      <stop offset="100%" stop-color="#A5B4FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#fbg)"/>
+
+  <path fill="url(#wave1)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,120 C 200,90 400,150 600,120 C 800,90 1000,150 1200,120 L1200,220 L0,220 Z;
+              M0,130 C 200,160 400,100 600,130 C 800,160 1000,100 1200,130 L1200,220 L0,220 Z;
+              M0,120 C 200,90 400,150 600,120 C 800,90 1000,150 1200,120 L1200,220 L0,220 Z"/>
+  </path>
+  <path fill="url(#wave2)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0,150 C 220,180 420,130 600,150 C 820,180 1000,130 1200,150 L1200,220 L0,220 Z;
+              M0,160 C 220,120 420,180 600,160 C 820,120 1000,180 1200,160 L1200,220 L0,220 Z;
+              M0,150 C 220,180 420,130 600,150 C 820,180 1000,130 1200,150 L1200,220 L0,220 Z"/>
+  </path>
+
+  <text x="600" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="30" font-weight="600" fill="url(#textFill)">
+    Thanks for stopping by.
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="100" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#71717A">
+    Designed with intent. Built with code.
+  </text>
+</svg>

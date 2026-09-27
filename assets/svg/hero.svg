@@ -1,0 +1,107 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Prince Aryan — Full Stack Developer, Studying AI/ML">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="100%" stop-color="#0c0c10"/>
+    </linearGradient>
+
+    <radialGradient id="auroraBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraEmerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FAFAFA"/>
+      <stop offset="55%" stop-color="#E0E7FF"/>
+      <stop offset="100%" stop-color="#A5B4FC"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="ringGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+
+  <!-- floating aurora blobs -->
+  <g filter="url(#soft)">
+    <circle cx="180" cy="120" r="180" fill="url(#auroraBlue)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 40 25; 0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="90" r="200" fill="url(#auroraViolet)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -35 30; 0 0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="340" r="220" fill="url(#auroraCyan)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 25 -30; 0 0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="360" r="160" fill="url(#auroraEmerald)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -20 -15; 0 0" dur="13s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- floating particles -->
+  <g fill="#FAFAFA">
+    <circle cx="120" cy="60" r="2" opacity="0.6"><animate attributeName="cy" values="60;40;60" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="340" r="1.6" opacity="0.5"><animate attributeName="cy" values="340;320;340" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="60" r="2.2" opacity="0.55"><animate attributeName="cy" values="60;80;60" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="200" r="1.8" opacity="0.5"><animate attributeName="cy" values="200;180;200" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="60" r="1.5" opacity="0.4"><animate attributeName="cy" values="60;45;60" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="370" r="2" opacity="0.5"><animate attributeName="cy" values="370;350;370" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="250" r="1.6" opacity="0.4"><animate attributeName="cy" values="250;230;250" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="110" r="1.8" opacity="0.5"><animate attributeName="cy" values="110;130;110" dur="6.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- avatar glow ring emblem -->
+  <g transform="translate(1000,210)">
+    <circle r="86" fill="url(#ringGlow)">
+      <animate attributeName="r" values="82;92;82" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="60" fill="#111114" stroke="#3B82F6" stroke-width="2"/>
+    <circle r="52" fill="#0C0C10" stroke="#27272A" stroke-width="1"/>
+    <text x="0" y="15" text-anchor="middle" font-family="Inter, 'SF Pro Display', sans-serif" font-size="38" font-weight="800" fill="url(#nameFill)" letter-spacing="1">PA</text>
+  </g>
+
+  <!-- name -->
+  <text x="90" y="215" font-family="Inter, 'SF Pro Display', sans-serif" font-size="88" font-weight="700" fill="url(#nameFill)" letter-spacing="-2">
+    Prince Aryan
+  </text>
+
+  <!-- subtitle -->
+  <text x="92" y="260" font-family="Inter, sans-serif" font-size="21" fill="#A1A1AA" letter-spacing="0.5">
+    Full Stack Developer &#183; Studying AI / ML &#183; Systems &amp; Open Source
+  </text>
+
+  <!-- typing line -->
+  <g transform="translate(92,300)">
+    <rect x="0" y="-20" width="620" height="2" fill="#27272A"/>
+    <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="18" fill="#22D3EE">
+      <tspan>&gt; building things that feel lighter than code_</tspan>
+    </text>
+    <rect x="500" y="-2" width="2" height="20" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- thin bottom divider glow -->
+  <rect x="0" y="418" width="1200" height="2" fill="url(#nameFill)" opacity="0.4"/>
+</svg>
