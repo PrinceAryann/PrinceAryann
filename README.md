@@ -248,25 +248,24 @@ Interactive programs and foundational software built during core computer scienc
 ## 🖥️ Linux Setup
 
 ```
-
-  █████╗ ██████╗  ██████╗██╗  ██╗
- ██╔══██╗██╔══██╗██╔════╝██║  ██║
- ███████║██████╔╝██║     ███████║
- ██╔══██║██╔══██╗██║     ██╔══██║
- ██║  ██║██║  ██║╚██████╗██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-
- prince@arch ~ % neofetch
-
- OS       » Arch Linux x86_64
- DE/WM    » KDE Plasma  (Hyprland — in progress)
- GPU      » NVIDIA GeForce RTX 4060
- Shell    » Zsh + Starship
- Editor   » Neovim (custom Lua config)
- Terminal » Kitty
- Stack    » Python 3.12 · FastAPI · Docker
-
- uptime: too long. dotfiles: never finished.
+                 .o+`                   -------------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Host: ASUS TUF Gaming A15 FA507NVR_FA507NVR 1.0 
+               `+oooooo:                 Kernel: 7.2.7-arch1-1 
+               -+oooooo+:                Uptime: 1 hour, 27 mins 
+             `/:-:++oooo+:               Packages: 1137 (pacman) 
+            `/++++/+++++++:              Shell: bash 5.3.20 
+           `/++++++++++++++:             Resolution: 1920x1080 
+          `/+++ooooooooooooo/`           DE: Plasma 6.7.5 
+         ./ooosssso++osssssso+`          WM: kwin 
+        .oossssso-````/ossssss+`         Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
+       -osssssso.      :ssssssso.        Icons: WhiteSur-dark [GTK2/3] 
+      :osssssss/        osssso+++.       Terminal: konsole 
+     /ossssssss/        +ssssooo/-       CPU: AMD Ryzen 7 7435HS (16) @ 4.553GHz 
+   `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA GeForce RTX 4060 Max-Q / Mobile 
+  `+sso+:-`                 `.-/+oso:    Memory: 6838MiB / 15800MiB 
+ `++:.                           `-/+/
+ .`                                 `/
 
 ```
 
@@ -302,9 +301,6 @@ Interactive programs and foundational software built during core computer scienc
 <a href="https://github.com/PrinceAryann"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>&nbsp;
 <a href="https://www.instagram.com/_prince_aryannn_/"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/></a>&nbsp;
 <a href="mailto:rabbitpet566@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/></a>&nbsp;
-<a href="https://x.com/PrinceAryann"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter/X"/></a>&nbsp;
-<a href="https://leetcode.com/princearyan"><img src="https://skillicons.dev/icons?i=leetcode" width="48" alt="LeetCode"/></a>&nbsp;
-<a href="https://kaggle.com/princearyan"><img src="https://skillicons.dev/icons?i=kaggle" width="48" alt="Kaggle"/></a>
 
 </div>
 
