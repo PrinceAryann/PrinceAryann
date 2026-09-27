@@ -224,12 +224,18 @@ Interactive programs and foundational software built during core computer scienc
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PrinceAryann&theme=dark&background=09090B&ring=8B5CF6&fire=22D3EE&currStreakLabel=FAFAFA&border=27272A" width="75%" alt="GitHub Streak"/>
+<a href="https://github.com/PrinceAryann">
+  <img src="https://streak-stats.demolab.com/?user=PrinceAryann&theme=dark&background=09090B&ring=8B5CF6&fire=22D3EE&currStreakLabel=FAFAFA&border=27272A&hide_border=false" alt="Current streak" width="75%" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceAryann&show_icons=true&theme=dark&bg_color=09090B&title_color=FAFAFA&icon_color=22D3EE&text_color=A1A1AA&border_color=27272A&hide_border=false" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAryann&layout=compact&theme=dark&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&border_color=27272A&hide_border=false" width="48%" alt="Top Languages"/>
+<a href="https://github.com/PrinceAryann">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceAryann&show_icons=true&count_private=true&theme=dark&bg_color=09090B&title_color=FAFAFA&icon_color=22D3EE&text_color=A1A1AA&border_color=27272A&hide_border=false" alt="GitHub stats" width="48%" />
+</a>
+<a href="https://github.com/PrinceAryann">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAryann&layout=compact&count_private=true&theme=dark&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&border_color=27272A&hide_border=false" alt="Top languages" width="48%" />
+</a>
 
 </div>
 
