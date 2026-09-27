@@ -250,7 +250,7 @@ Interactive programs and foundational software built during core computer scienc
 ```
                  .o+`                   -------------- 
                  `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Host: ASUS TUF Gaming A15 FA507NVR_FA507NVR 1.0 
+                `+oooo:                  Host: ASUS TUF Gaming A15
                `+oooooo:                 Kernel: 7.2.7-arch1-1 
                -+oooooo+:                Uptime: 1 hour, 27 mins 
              `/:-:++oooo+:               Packages: 1137 (pacman) 
