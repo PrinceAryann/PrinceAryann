@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(180deg, #09090B 0%, #0C0C10 100%); color: #FAFAFA; padding: 24px 24px 12px; border-radius: 18px;">
+
 <div align="center">
 
 <img src="./assets/svg/hero.svg" width="100%" alt="Prince Aryan — Full Stack Developer, Studying AI/ML" />
@@ -313,5 +315,7 @@ Interactive programs and foundational software built during core computer scienc
 <br/>
 
 <img src="./assets/svg/footer.svg" width="100%" alt="Thanks for stopping by"/>
+
+</div>
 
 </div>
